@@ -1,16 +1,30 @@
 NYC Airbnb Data Analysis
-Project Overview
-This project offers a comprehensive analysis of Airbnb listings in New York City, using the "New York City Airbnb Open Data" (AB_NYC_2019) dataset. The main goal is to uncover pricing trends, neighborhood popularity, and customer preferences to help refine Airbnb's pricing strategies and improve their market positioning in NYC.
 
+📋 Project Overview
+This project provides an in-depth analysis of Airbnb listings in New York City using the "New York City Airbnb Open Data" (AB_NYC_2019) dataset. It focuses on uncovering key trends, pricing patterns, and customer preferences across various neighborhoods and room types to guide Airbnb in enhancing its market strategy.
+
+📑 Table of Contents
 Project Highlights
-Data Cleaning: Addressed missing values and standardized variables to ensure consistency. Key fields with missing information were carefully imputed to avoid skewing the analysis.
-Exploratory Data Analysis (EDA): Identified pricing patterns across different neighborhoods and room types, highlighting both high-demand areas and budget-friendly options.
-Key Insights:
-Neighborhood Analysis: Manhattan listings dominate in price, averaging around $200, while Staten Island offers the most budget-friendly options.
-Room Type Trends: Entire homes/apartments command higher prices (~$200 on average) compared to private rooms ($100) and shared rooms ($50), reflecting the premium for privacy and space.
-Top Expensive Neighborhoods: High-end neighborhoods like Tribeca and Battery Park City show significantly higher price points.
+Data Cleaning
+Exploratory Data Analysis
+Key Insights
 Business Recommendations
-Expand Budget-Friendly Options: Increasing listings for shared and private rooms can attract budget-conscious travelers.
-Implement Dynamic Pricing: Optimizing prices in Manhattan and during off-peak seasons could increase bookings for premium listings.
-Promote Affordable Neighborhoods: Boosting visibility for areas like Staten Island, Bronx, and Queens could attract a more diverse customer base.
-Highlight Mid-Tier Options: Introducing more studio apartments or similar mid-priced options can bridge the gap between private rooms and entire homes.
+🌟 Project Highlights
+Data Cleaning: Addressed missing values, standardized variables, and ensured data consistency. Important fields with missing information were carefully imputed to avoid analysis bias.
+Exploratory Data Analysis (EDA): Explored pricing trends, neighborhood distributions, and room type variations to uncover valuable insights for Airbnb’s market strategy.
+🧼 Data Cleaning
+Duplicates: Checked and confirmed no duplicate rows.
+Missing Values: Imputed missing values in fields like name, host_name, and reviews_per_month to ensure completeness.
+Data Types: Converted and standardized data types for accurate analysis.
+📊 Exploratory Data Analysis
+Neighborhood Distribution: Manhattan has the highest number of listings, but budget-friendly options are mainly found in Staten Island and the Bronx.
+Room Type Analysis: Entire homes/apartments command higher prices (~$200 on average) than private rooms ($100) and shared rooms ($50).
+Top Neighborhoods by Price: Tribeca and Battery Park City lead in high-end pricing.
+🔍 Key Insights
+Manhattan dominates in pricing, with an average near $200, while Staten Island offers the most affordable options.
+Entire homes/apartments are priced the highest due to their premium on privacy and space, while shared rooms offer budget-friendly options for group travelers.
+💡 Business Recommendations
+Increase Budget-Friendly Listings: Encourage more shared and private room options to attract budget-conscious travelers.
+Implement Dynamic Pricing: Use dynamic pricing strategies in high-demand areas like Manhattan during off-peak seasons to increase bookings.
+Promote Affordable Neighborhoods: Highlight areas like Staten Island, Bronx, and Queens as budget-friendly alternatives.
+Introduce Mid-Tier Options: Offer studio apartments to fill the gap between private rooms and entire homes.
