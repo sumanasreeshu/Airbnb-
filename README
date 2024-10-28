@@ -1,0 +1,16 @@
+NYC Airbnb Data Analysis
+Project Overview
+This project offers a comprehensive analysis of Airbnb listings in New York City, using the "New York City Airbnb Open Data" (AB_NYC_2019) dataset. The main goal is to uncover pricing trends, neighborhood popularity, and customer preferences to help refine Airbnb's pricing strategies and improve their market positioning in NYC.
+
+Project Highlights
+Data Cleaning: Addressed missing values and standardized variables to ensure consistency. Key fields with missing information were carefully imputed to avoid skewing the analysis.
+Exploratory Data Analysis (EDA): Identified pricing patterns across different neighborhoods and room types, highlighting both high-demand areas and budget-friendly options.
+Key Insights:
+Neighborhood Analysis: Manhattan listings dominate in price, averaging around $200, while Staten Island offers the most budget-friendly options.
+Room Type Trends: Entire homes/apartments command higher prices (~$200 on average) compared to private rooms ($100) and shared rooms ($50), reflecting the premium for privacy and space.
+Top Expensive Neighborhoods: High-end neighborhoods like Tribeca and Battery Park City show significantly higher price points.
+Business Recommendations
+Expand Budget-Friendly Options: Increasing listings for shared and private rooms can attract budget-conscious travelers.
+Implement Dynamic Pricing: Optimizing prices in Manhattan and during off-peak seasons could increase bookings for premium listings.
+Promote Affordable Neighborhoods: Boosting visibility for areas like Staten Island, Bronx, and Queens could attract a more diverse customer base.
+Highlight Mid-Tier Options: Introducing more studio apartments or similar mid-priced options can bridge the gap between private rooms and entire homes.
